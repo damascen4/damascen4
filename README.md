@@ -17,6 +17,6 @@
 
 <h3 align="center" >Contact me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/m-damascena" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-damascena"/></a>
+<a href="https://linkedin.com/in/m-damascena" ><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m-damascena"/></a>
 <a href="mailto:m.damascena@hotmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="m-damascena"/></a>
 </p>
